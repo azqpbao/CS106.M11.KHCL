@@ -13,7 +13,7 @@
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 19521766      | Phan Anh Lộc           |Nhóm trưởng|[azqpbao](https://github.com/azqpbao)                    |19521766@gm.uit.edu.vn   |
-| 2      | 19521874      | Lê Đình Đức            |Thành viên |[namt9](https://github.com/namt9)                        |19521874@gm.uit.edu.vn   |
+| 2      | 19521874      | Lê Đình Đức            |Thành viên |                                                         |19521372@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Trí tuệ nhân tạo
